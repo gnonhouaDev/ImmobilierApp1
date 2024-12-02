@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<g id="BACKGROUND">
+	<rect style="fill:#FFFFFF;" width="500" height="500"/>
+</g>
+<g id="OBJECTS">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" width="500" height="500"/>
+		</defs>
+		<clipPath id="SVGID_00000149354119166346166880000008022720819600978607_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000149354119166346166880000008022720819600978607_);">
+			<g>
+				<rect x="62.617" y="253.713" style="fill:#FDBE4B;" width="40.31" height="40.31"/>
+				<circle style="fill:#BC1B1B;" cx="82.52" cy="220.122" r="19.24"/>
+				<rect x="120.276" y="200.803" style="fill:#006897;" width="14.225" height="94.024"/>
+				<polygon style="fill:#464646;" points="102.927,253.713 62.617,294.023 102.927,294.023 				"/>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 134.5048 249.5264)"><tspan x="0" y="0" style="fill:#464646; font-family:'Baumans-Regular'; font-size:64.8927px;"> </tspan><tspan x="15.119" y="0" style="fill:#464646; font-family:'Baumans-Regular'; font-size:65px;">Bauhouse</tspan><tspan x="287.984" y="0" style="fill:#464646; font-family:'Baumans-Regular'; font-size:64.8927px;"> </tspan><tspan x="18.591" y="45" style="fill:#464646; font-family:'Comfortaa-Regular'; font-size:38px;">Real Estate</tspan></text>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
